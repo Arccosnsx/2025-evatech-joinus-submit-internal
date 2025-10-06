@@ -1,0 +1,821 @@
+[
+  {
+    "date": "2025-03-01",
+    "density": 61,
+    "emotions": [
+      {
+        "count": 48
+      },
+      {
+        "count": 19
+      },
+      {
+        "count": 41
+      },
+      {
+        "count": 30
+      },
+      {
+        "count": 21
+      }
+    ],
+    "keywords": [
+      "屏幕",
+      "信号",
+      "流畅度",
+      "拍照",
+      "价格"
+    ]
+  },
+  {
+    "date": "2025-03-02",
+    "density": 59,
+    "emotions": [
+      {
+        "count": 61
+      },
+      {
+        "count": 8
+      },
+      {
+        "count": 63
+      },
+      {
+        "count": 20
+      },
+      {
+        "count": 56
+      }
+    ],
+    "keywords": [
+      "手感",
+      "价格"
+    ]
+  },
+  {
+    "date": "2025-03-03",
+    "density": 51,
+    "emotions": [
+      {
+        "count": 0
+      },
+      {
+        "count": 88
+      },
+      {
+        "count": 63
+      },
+      {
+        "count": 85
+      },
+      {
+        "count": 34
+      }
+    ],
+    "keywords": [
+      "流畅度",
+      "外观",
+      "信号",
+      "充电",
+      "屏幕"
+    ]
+  },
+  {
+    "date": "2025-03-04",
+    "density": 186,
+    "emotions": [
+      {
+        "count": 18
+      },
+      {
+        "count": 66
+      },
+      {
+        "count": 18
+      },
+      {
+        "count": 51
+      },
+      {
+        "count": 94
+      }
+    ],
+    "keywords": [
+      "性价比",
+      "发热"
+    ]
+  },
+  {
+    "date": "2025-03-05",
+    "density": 137,
+    "emotions": [
+      {
+        "count": 100
+      },
+      {
+        "count": 75
+      },
+      {
+        "count": 58
+      },
+      {
+        "count": 6
+      },
+      {
+        "count": 46
+      }
+    ],
+    "keywords": [
+      "设计",
+      "屏幕"
+    ]
+  },
+  {
+    "date": "2025-03-06",
+    "density": 184,
+    "emotions": [
+      {
+        "count": 93
+      },
+      {
+        "count": 17
+      },
+      {
+        "count": 50
+      },
+      {
+        "count": 82
+      },
+      {
+        "count": 58
+      }
+    ],
+    "keywords": [
+      "拍照",
+      "流畅度",
+      "外观"
+    ]
+  },
+  {
+    "date": "2025-03-07",
+    "density": 108,
+    "emotions": [
+      {
+        "count": 78
+      },
+      {
+        "count": 51
+      },
+      {
+        "count": 0
+      },
+      {
+        "count": 67
+      },
+      {
+        "count": 47
+      }
+    ],
+    "keywords": [
+      "系统",
+      "发热",
+      "信号",
+      "音质",
+      "价格"
+    ]
+  },
+  {
+    "date": "2025-03-08",
+    "density": 123,
+    "emotions": [
+      {
+        "count": 10
+      },
+      {
+        "count": 92
+      },
+      {
+        "count": 81
+      },
+      {
+        "count": 89
+      },
+      {
+        "count": 49
+      }
+    ],
+    "keywords": [
+      "系统",
+      "信号",
+      "性能",
+      "价格"
+    ]
+  },
+  {
+    "date": "2025-03-09",
+    "density": 138,
+    "emotions": [
+      {
+        "count": 9
+      },
+      {
+        "count": 11
+      },
+      {
+        "count": 3
+      },
+      {
+        "count": 61
+      },
+      {
+        "count": 0
+      }
+    ],
+    "keywords": [
+      "拍照",
+      "流畅度",
+      "发热",
+      "信号"
+    ]
+  },
+  {
+    "date": "2025-03-10",
+    "density": 154,
+    "emotions": [
+      {
+        "count": 18
+      },
+      {
+        "count": 6
+      },
+      {
+        "count": 38
+      },
+      {
+        "count": 44
+      },
+      {
+        "count": 35
+      }
+    ],
+    "keywords": [
+      "流畅度",
+      "屏幕",
+      "发热"
+    ]
+  },
+  {
+    "date": "2025-03-11",
+    "density": 137,
+    "emotions": [
+      {
+        "count": 21
+      },
+      {
+        "count": 83
+      },
+      {
+        "count": 38
+      },
+      {
+        "count": 6
+      },
+      {
+        "count": 37
+      }
+    ],
+    "keywords": [
+      "续航",
+      "性能"
+    ]
+  },
+  {
+    "date": "2025-03-12",
+    "density": 189,
+    "emotions": [
+      {
+        "count": 21
+      },
+      {
+        "count": 61
+      },
+      {
+        "count": 8
+      },
+      {
+        "count": 60
+      },
+      {
+        "count": 66
+      }
+    ],
+    "keywords": [
+      "性价比",
+      "充电"
+    ]
+  },
+  {
+    "date": "2025-03-13",
+    "density": 146,
+    "emotions": [
+      {
+        "count": 61
+      },
+      {
+        "count": 75
+      },
+      {
+        "count": 34
+      },
+      {
+        "count": 11
+      },
+      {
+        "count": 30
+      }
+    ],
+    "keywords": [
+      "流畅度",
+      "拍照"
+    ]
+  },
+  {
+    "date": "2025-03-14",
+    "density": 161,
+    "emotions": [
+      {
+        "count": 41
+      },
+      {
+        "count": 45
+      },
+      {
+        "count": 4
+      },
+      {
+        "count": 22
+      },
+      {
+        "count": 9
+      }
+    ],
+    "keywords": [
+      "拍照",
+      "手感"
+    ]
+  },
+  {
+    "date": "2025-03-15",
+    "density": 177,
+    "emotions": [
+      {
+        "count": 95
+      },
+      {
+        "count": 74
+      },
+      {
+        "count": 22
+      },
+      {
+        "count": 66
+      },
+      {
+        "count": 96
+      }
+    ],
+    "keywords": [
+      "价格",
+      "手感",
+      "屏幕",
+      "设计",
+      "信号"
+    ]
+  },
+  {
+    "date": "2025-03-16",
+    "density": 170,
+    "emotions": [
+      {
+        "count": 80
+      },
+      {
+        "count": 1
+      },
+      {
+        "count": 6
+      },
+      {
+        "count": 93
+      },
+      {
+        "count": 76
+      }
+    ],
+    "keywords": [
+      "性能",
+      "拍照",
+      "续航",
+      "充电",
+      "发热"
+    ]
+  },
+  {
+    "date": "2025-03-17",
+    "density": 102,
+    "emotions": [
+      {
+        "count": 89
+      },
+      {
+        "count": 2
+      },
+      {
+        "count": 36
+      },
+      {
+        "count": 44
+      },
+      {
+        "count": 8
+      }
+    ],
+    "keywords": [
+      "设计",
+      "发热",
+      "价格",
+      "流畅度",
+      "性价比"
+    ]
+  },
+  {
+    "date": "2025-03-18",
+    "density": 125,
+    "emotions": [
+      {
+        "count": 100
+      },
+      {
+        "count": 69
+      },
+      {
+        "count": 11
+      },
+      {
+        "count": 2
+      },
+      {
+        "count": 85
+      }
+    ],
+    "keywords": [
+      "音质",
+      "屏幕",
+      "设计"
+    ]
+  },
+  {
+    "date": "2025-03-19",
+    "density": 60,
+    "emotions": [
+      {
+        "count": 42
+      },
+      {
+        "count": 69
+      },
+      {
+        "count": 43
+      },
+      {
+        "count": 2
+      },
+      {
+        "count": 76
+      }
+    ],
+    "keywords": [
+      "续航",
+      "流畅度",
+      "系统"
+    ]
+  },
+  {
+    "date": "2025-03-20",
+    "density": 189,
+    "emotions": [
+      {
+        "count": 42
+      },
+      {
+        "count": 87
+      },
+      {
+        "count": 63
+      },
+      {
+        "count": 62
+      },
+      {
+        "count": 84
+      }
+    ],
+    "keywords": [
+      "充电",
+      "性价比",
+      "信号",
+      "拍照"
+    ]
+  },
+  {
+    "date": "2025-03-21",
+    "density": 173,
+    "emotions": [
+      {
+        "count": 25
+      },
+      {
+        "count": 19
+      },
+      {
+        "count": 10
+      },
+      {
+        "count": 54
+      },
+      {
+        "count": 60
+      }
+    ],
+    "keywords": [
+      "性能",
+      "屏幕",
+      "充电",
+      "外观"
+    ]
+  },
+  {
+    "date": "2025-03-22",
+    "density": 196,
+    "emotions": [
+      {
+        "count": 97
+      },
+      {
+        "count": 51
+      },
+      {
+        "count": 70
+      },
+      {
+        "count": 62
+      },
+      {
+        "count": 17
+      }
+    ],
+    "keywords": [
+      "屏幕",
+      "拍照",
+      "价格"
+    ]
+  },
+  {
+    "date": "2025-03-23",
+    "density": 168,
+    "emotions": [
+      {
+        "count": 40
+      },
+      {
+        "count": 78
+      },
+      {
+        "count": 60
+      },
+      {
+        "count": 81
+      },
+      {
+        "count": 88
+      }
+    ],
+    "keywords": [
+      "流畅度",
+      "续航"
+    ]
+  },
+  {
+    "date": "2025-03-24",
+    "density": 165,
+    "emotions": [
+      {
+        "count": 80
+      },
+      {
+        "count": 8
+      },
+      {
+        "count": 83
+      },
+      {
+        "count": 48
+      },
+      {
+        "count": 50
+      }
+    ],
+    "keywords": [
+      "外观",
+      "手感",
+      "续航"
+    ]
+  },
+  {
+    "date": "2025-03-25",
+    "density": 128,
+    "emotions": [
+      {
+        "count": 99
+      },
+      {
+        "count": 5
+      },
+      {
+        "count": 1
+      },
+      {
+        "count": 20
+      },
+      {
+        "count": 40
+      }
+    ],
+    "keywords": [
+      "性价比",
+      "设计",
+      "屏幕"
+    ]
+  },
+  {
+    "date": "2025-03-26",
+    "density": 75,
+    "emotions": [
+      {
+        "count": 20
+      },
+      {
+        "count": 39
+      },
+      {
+        "count": 63
+      },
+      {
+        "count": 45
+      },
+      {
+        "count": 15
+      }
+    ],
+    "keywords": [
+      "发热",
+      "流畅度",
+      "信号",
+      "充电",
+      "续航"
+    ]
+  },
+  {
+    "date": "2025-03-27",
+    "density": 182,
+    "emotions": [
+      {
+        "count": 6
+      },
+      {
+        "count": 80
+      },
+      {
+        "count": 38
+      },
+      {
+        "count": 99
+      },
+      {
+        "count": 51
+      }
+    ],
+    "keywords": [
+      "屏幕",
+      "信号",
+      "性价比",
+      "音质"
+    ]
+  },
+  {
+    "date": "2025-03-28",
+    "density": 182,
+    "emotions": [
+      {
+        "count": 38
+      },
+      {
+        "count": 46
+      },
+      {
+        "count": 87
+      },
+      {
+        "count": 48
+      },
+      {
+        "count": 76
+      }
+    ],
+    "keywords": [
+      "续航",
+      "性能",
+      "性价比"
+    ]
+  },
+  {
+    "date": "2025-03-29",
+    "density": 100,
+    "emotions": [
+      {
+        "count": 63
+      },
+      {
+        "count": 41
+      },
+      {
+        "count": 56
+      },
+      {
+        "count": 96
+      },
+      {
+        "count": 94
+      }
+    ],
+    "keywords": [
+      "设计",
+      "拍照"
+    ]
+  },
+  {
+    "date": "2025-03-30",
+    "density": 56,
+    "emotions": [
+      {
+        "count": 63
+      },
+      {
+        "count": 26
+      },
+      {
+        "count": 58
+      },
+      {
+        "count": 98
+      },
+      {
+        "count": 49
+      }
+    ],
+    "keywords": [
+      "拍照",
+      "性价比",
+      "流畅度",
+      "发热",
+      "价格"
+    ]
+  },
+  {
+    "date": "2025-03-31",
+    "density": 149,
+    "emotions": [
+      {
+        "count": 68
+      },
+      {
+        "count": 25
+      },
+      {
+        "count": 44
+      },
+      {
+        "count": 28
+      },
+      {
+        "count": 75
+      }
+    ],
+    "keywords": [
+      "续航",
+      "屏幕",
+      "充电",
+      "音质"
+    ]
+  }
+]

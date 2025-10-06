@@ -1,0 +1,44 @@
+{
+    "warningInfo": {
+        "message": "苹果要是下架微信我就转华为了",
+        "product": "iPhone 16",
+        "priority": "High",
+        "alertValue": "83",
+        "fileName": "Pro_1000",
+        "alertTime": "Sept.3 2024"
+    },
+    "sentimentAnalysis": {
+        "fileName": "Pro_1000",
+        "image": "",
+        "comments": [
+            "用了8年iPhone，全家桶配齐了…但要是微信真下架，工作群全炸锅啊！华为Mate60系列看了好久，这次可能真要换安卓了[裂开] 苹果你可想清楚！",
+            "支持国产硬核决定！没有微信的苹果就是板砖，华为自研芯片+鸿蒙系统不香吗？正好借这个机会摆脱苹果税，5G信号还更强",
+            "实测华为折叠屏微信多开功能比iOS方便多了…苹果要是放弃中国市场最大APP，那价格再降5000我都不考虑，生态链再强也抵不过刚需啊",
+            "别说什么iMessage，国内谁用啊？微信文件传输+小程序办公全在里头。我们公司已经发通知，苹果下架微信全员换华为，毕竟生意更重要",
+            "不能刷朋友圈/抢红包/扫码支付的iPhone？那和MP4有什么区别[狗头] 华为至少能装谷歌框架，出国还能双系统切换",
+            "苹果敢下架微信，股价至少跌20%信不信？中国市场占苹果营收1/5，TikTok事件已经证明社交APP才是真·系统底层[吃瓜]"
+        ],
+        "cognitiveBias": "80",
+        "emotionalTendency": "60",
+        "dominantEmotion": [
+            "2",
+            "2",
+            "75",
+            "3",
+            "8",
+            "10"
+        ]
+    },
+    "hotspotTracking": {
+        "fileName": "Pro_1000",
+        "infoFlowChart": "",
+        "infoFlowInterpretation": "2024年8月上旬\n关键词：微信小程序；苹果税；ios平台\n情感倾向：负向为主，主要表现为困惑、质疑\n2024年9上旬\n关键词：iPhone16；微信下架；ios更新 情感倾...",
+        "hotspotTimeRange": "2024.8.9\n-\n2025.9.10",
+        "wordCloud": "词云内容",
+        "turningPointAnalysis": "9月1日起，有传言称“微信可能不支持iPhone 16，iPhone 一旦升级到 i0S18.2 系统将无法使用微信”，该传言迅速在网络上传播，相关话题登上微博热搜，引发网友广泛讨论，该谣言的产生导致公众对新品的发布从期待转向担忧与不安。",
+        "relatedCommentsCount": "200W+",
+        "platformCount": "10",
+        "mostCommentsSource": "小红书",
+        "singlePlatformMostComments": "10W+"
+    }
+}

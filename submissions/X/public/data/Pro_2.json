@@ -1,0 +1,124 @@
+{
+    "warnings": [
+        {
+            "id": "Pro_1004",
+            "topic": "iPhone 16 pro 的电池续航真的不行",
+            "product": "iPhone 16 pro",
+            "priority": "High",
+            "date": "2024.09.23",
+            "detailId": "D004"
+        },
+        {
+            "id": "Pro_1005",
+            "topic": "iPhone 16 pro 的屏幕显示效果太棒了",
+            "product": "iPhone 16 pro",
+            "priority": "Low",
+            "date": "2024.09.24",
+            "detailId": "D005"
+        },
+        {
+            "id": "Pro_1006",
+            "topic": "iPhone 16 pro 的发热问题严重",
+            "product": "iPhone 16 pro",
+            "priority": "High",
+            "date": "2024.09.25",
+            "detailId": "D006"
+        },
+        {
+            "id": "Pro_1007",
+            "topic": "iPhone 16 pro 的音质提升明显",
+            "product": "iPhone 16 pro",
+            "priority": "Medium",
+            "date": "2024.09.26",
+            "detailId": "D007"
+        },
+        {
+            "id": "Pro_1008",
+            "topic": "iPhone 16 pro 的摄像头容易进灰",
+            "product": "iPhone 16 pro",
+            "priority": "High",
+            "date": "2024.09.27",
+            "detailId": "D008"
+        },
+        {
+            "id": "Pro_1009",
+            "topic": "iPhone 16 pro 的Face ID识别速度很快",
+            "product": "iPhone 16 pro",
+            "priority": "Low",
+            "date": "2024.09.28",
+            "detailId": "D009"
+        },
+        {
+            "id": "Pro_1010",
+            "topic": "iPhone 16 pro 的充电速度太慢",
+            "product": "iPhone 16 pro",
+            "priority": "Medium",
+            "date": "2024.09.29",
+            "detailId": "D010"
+        },
+        {
+            "id": "Pro_1011",
+            "topic": "iPhone 16 pro 的设计手感非常好",
+            "product": "iPhone 16 pro",
+            "priority": "Low",
+            "date": "2024.09.30",
+            "detailId": "D011"
+        },
+        {
+            "id": "Pro_1012",
+            "topic": "iPhone 16 pro 的信号接收不稳定",
+            "product": "iPhone 16 pro",
+            "priority": "High",
+            "date": "2024.10.01",
+            "detailId": "D012"
+        },
+        {
+            "id": "Pro_1013",
+            "topic": "iPhone 16 pro 的夜间模式拍照效果惊艳",
+            "product": "iPhone 16 pro",
+            "priority": "Medium",
+            "date": "2024.10.02",
+            "detailId": "D013"
+        },
+        {
+            "id": "Pro_1014",
+            "topic": "iPhone 16 pro 的防水性能一般",
+            "product": "iPhone 16 pro",
+            "priority": "High",
+            "date": "2024.10.03",
+            "detailId": "D014"
+        },
+        {
+            "id": "Pro_1015",
+            "topic": "iPhone 16 pro 的触控反应非常灵敏",
+            "product": "iPhone 16 pro",
+            "priority": "Low",
+            "date": "2024.10.04",
+            "detailId": "D015"
+        },
+        {
+            "id": "Pro_1016",
+            "topic": "iPhone 16 pro 的存储空间不足",
+            "product": "iPhone 16 pro",
+            "priority": "High",
+            "date": "2024.10.05",
+            "detailId": "D016"
+        },
+        {
+            "id": "Pro_1017",
+            "topic": "iPhone 16 pro 的无线充电速度很快",
+            "product": "iPhone 16 pro",
+            "priority": "Low",
+            "date": "2024.10.06",
+            "detailId": "D017"
+        },
+        {
+            "id": "Pro_1018",
+            "topic": "iPhone 16 pro 的软件更新频繁",
+            "product": "iPhone 16 pro",
+            "priority": "Medium",
+            "date": "2024.10.07",
+            "detailId": "D018"
+        }
+    ]
+}

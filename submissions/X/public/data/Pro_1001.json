@@ -1,0 +1,42 @@
+{
+    "warningInfo": {
+        "message": "苹果要是下架微信我就转华为了",
+        "product": "iPhone 16",
+        "priority": "High",
+        "alertValue": "83",
+        "fileName": "Pro_1001",
+        "alertTime": "Sept.3 2024"
+    },
+    "sentimentAnalysis": {
+        "image": "",
+        "comments": [
+            "评论1",
+            "评论2",
+            "评论3",
+            "评论4",
+            "评论5",
+            "评论6"
+        ],
+        "cognitiveBias": "80",
+        "emotionalTendency": "60",
+        "dominantEmotion": [
+            "2",
+            "2",
+            "75",
+            "3",
+            "8",
+            "10"
+        ]
+    },
+    "hotspotTracking": {
+        "infoFlowChart": "",
+        "infoFlowInterpretation": "2024年8月上旬\n关键词：微信小程序；苹果税；ios平台\n情感倾向：负向为主，主要表现为困惑、质疑\n2024年9上旬\n关键词：iPhone16；微信下架；ios更新 情感倾...",
+        "hotspotTimeRange": "2024.8.9\n-\n2025.9.10",
+        "wordCloud": "词云内容",
+        "turningPointAnalysis": "9月1日起，有传言称“微信可能不支持iPhone 16，iPhone 一旦升级到 i0S18.2 系统将无法使用微信”，该传言迅速在网络上传播，相关话题登上微博热搜，引发网友广泛讨论，该谣言的产生导致公众对新品的发布从期待转向担忧与不安。",
+        "relatedCommentsCount": "200W+",
+        "platformCount": "10",
+        "mostCommentsSource": "小红书",
+        "singlePlatformMostComments": "10W+"
+    }
+}
