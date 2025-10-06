@@ -10,3 +10,5 @@ pub fn stdin() File {
 }
 ```
 的`windows.peb().ProcessParameters.hStdInput`里面有`reader().interface`？？？
+
+这个API甚至是我对着`stdout`猜出来的（）
