@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>第四题</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>很多小方块</h1>
+        </header>
+        
+        <div class="input-section">
+            <input type="number" id="numberInput" min="1" max="100" placeholder="输入方块数量">
+            <button id="generateBtn">生成方块</button>
+        </div>
+        
+        <div class="info-section">
+            <p>计数: <span id="blockCount">0</span></p>
+            <button id="clearBtn">清除所有方块</button>
+        </div>
+        
+        <div id="blocksContainer" class="blocks-container"></div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
