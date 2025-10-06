@@ -1,2 +1,4 @@
-This folder is used to submit your repository links
-Please create a new file named <username>.md (or txt) and put your repository link in it.
+因为我不喜欢`Docker`，所以不做第二题
+因为我不喜欢`Bot`，所以不做第六题
+
+其他作答可以看对应文件夹。`X`是我自己写过的一点项目
